@@ -5,4 +5,3 @@ Just nu pluggar jag webbutveckling på Mittuniversitetet och på denna sida komm
 
 ## Kontakt
 **E-mail:** emla2309@student.miun.se
-**Mobil:** 0730751900
